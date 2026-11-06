@@ -1,0 +1,30 @@
+body {
+    background-color: #3c3c3c;
+    font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+    color: #02a9f7;
+}
+
+.navbar-brand:hover,
+.navbar-brand:focus {
+    color: #02a9f7;
+}
+
+.card {
+    border-radius: 13px;
+}
+
+.card h1,
+.card h2 {
+    color: #1e293b;
+}
+
+.ammatit li {
+    margin-bottom: 18px;
+}
+
+.table ul {
+    margin-bottom: 0;
+}
